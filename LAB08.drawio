@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2023-10-07T09:55:59.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="KwvLdL6hqA0EozzzuvW8" version="22.0.4" type="github">
+  <diagram name="Página-1" id="bQPbrAqq4OrCqzHV3_yM">
+    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dzCXC3C0J-zke_rwwKEW-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dzCXC3C0J-zke_rwwKEW-2" value="IP: 192.168.1.100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="198" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dzCXC3C0J-zke_rwwKEW-3" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="374" y="105" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dzCXC3C0J-zke_rwwKEW-4" value="Windows 10 PC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="70" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dzCXC3C0J-zke_rwwKEW-5" value="PFsense" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="379" y="60" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dzCXC3C0J-zke_rwwKEW-6" value="IP: 192.168.1.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="364" y="198" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dzCXC3C0J-zke_rwwKEW-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;curved=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="170" y="140" as="sourcePoint" />
+            <mxPoint x="360" y="140" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzCXC3C0J-zke_rwwKEW-8" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="464" y="120" as="sourcePoint" />
+            <mxPoint x="634" y="120" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzCXC3C0J-zke_rwwKEW-9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="630" y="160" as="sourcePoint" />
+            <mxPoint x="464" y="160" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzCXC3C0J-zke_rwwKEW-10" value="Login" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.login;" vertex="1" parent="1">
+          <mxGeometry x="650" y="105" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dzCXC3C0J-zke_rwwKEW-11" value="Captive Portal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="60" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
